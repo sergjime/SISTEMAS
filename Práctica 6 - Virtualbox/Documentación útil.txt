@@ -1,0 +1,14 @@
+----- Añadir un nuevo repositorio -----
+------------------------------------------------
+https://www.virtualbox.org/wiki/Linux_Downloads
+_______________________________________________________________________________________________________________________________________
+
+----- Instalar un sistema operativo en VirtualBox -----
+--------------------------------------------------------------------------------------------------
+https://darkbyteblog.wordpress.com/2011/05/14/virtualbox-vm-instalar-un-sistema-operativo-virtual/
+_______________________________________________________________________________________________________________________________________
+
+----- Instalación de las Guest Additions en VirtualBox ----- 
+----------------------------------------------------------------------------
+https://docs.oracle.com/cd/E36500_01/E36502/html/qs-guest-additions.html
+http://somebooks.es/instalar-virtualbox-guest-additions-sobre-ubuntu-o-windows/
