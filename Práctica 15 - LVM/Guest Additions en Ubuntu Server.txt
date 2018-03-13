@@ -1,0 +1,17 @@
+sudo apt-get update
+
+sudo apt-get install dkms
+
+sudo apt-get install build-essential
+
+REINICIAR E INSERTAR ISO GUEST ADDITIONS
+
+cd /media (con ls veremos que tenemos un cdrom)
+
+sudo mount /dev/cdrom /media/cdrom
+
+cd /media/cdrom (con ls veremon un archivo llamado VBoxLinuxAdditions.run)
+
+sudo ./VBoxLinuxAdditions.run
+
+
