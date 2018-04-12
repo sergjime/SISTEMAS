@@ -1,0 +1,15 @@
+http://www.raid-calculator.com/default.aspx
+
+-- HARDWARE --
+
+
+
+
+
+https://www.amazon.es/IB-3810U3-Negro-unidad-disco-multiple/dp/B01GPXNLC4/ref=sr_1_12?s=computers&ie=UTF8&qid=1521565539&sr=1-12&keywords=raid+box
+
+
+
+https://www.amazon.es/Western-Digital-256MB-10000GB-Serial/dp/B0719498XY/ref=pd_sim_147_2?_encoding=UTF8&psc=1&refRID=RTCP8GCPQY3AK7DDQHB6
+
+https://www.tecmint.com/create-raid-6-in-linux/
